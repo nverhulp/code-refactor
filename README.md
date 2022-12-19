@@ -17,7 +17,7 @@ Even though accessibility is a broad topic that can include complex requirements
 
 ## Deployed Page
 
-[Deployed Page URL](https://nverhulp.github.io/code-refactor/)
+
 
 ## Acceptance Criteria
 
@@ -35,7 +35,7 @@ THEN I find a concise, descriptive title
 
 ## URL of Deployed Application
 
-
+[Deployed Page URL](https://nverhulp.github.io/code-refactor/)
 
 ## Credits
 
