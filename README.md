@@ -17,7 +17,7 @@ Even though accessibility is a broad topic that can include complex requirements
 
 ## Deployed Page
 
-
+<img src="./assets/images/deployed-page.png">
 
 ## Acceptance Criteria
 
