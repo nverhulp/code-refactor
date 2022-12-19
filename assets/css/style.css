@@ -18,6 +18,16 @@ body {
     background-color: #d9dcd6;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* HEADER */
 header {
     padding: 20px;
